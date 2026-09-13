@@ -39,6 +39,7 @@ def run_simulation(
     week_start = date.fromisoformat(fixture["week_start"])
     week_end = date.fromisoformat(fixture["week_end"])
     members = fixture["members"]
+    names = fixture.get("member_names", {})
     submissions_data = fixture["submissions"]
 
     start_dt = datetime.combine(week_start, datetime.min.time()).replace(tzinfo=IST)
@@ -96,7 +97,8 @@ def run_simulation(
 
         ledger.append(v)
         verdicts.append(v)
-        log.info(f"[{ts.date()}] {sub.member_id}: {v.verdict} ({v.points} pts)")
+        display = names.get(sub.member_id, sub.member_id)
+        log.info(f"[{ts.date()}] {display}: {v.verdict} ({v.points} pts)")
 
     # Settlement
     standings = leaderboard(verdicts, week_start, week_end)
@@ -104,13 +106,15 @@ def run_simulation(
 
     log.info(f"\nStandings for week {week_start}:")
     for s in standings:
-        log.info(f"  {s.member_id}: {s.points} pts, {s.valid_days} days")
-    log.info(f"Last place: {loser}")
+        log.info(f"  {names.get(s.member_id, s.member_id)}: {s.points} pts, {s.valid_days} days")
+    loser_name = names.get(loser, loser) if loser else None
+    log.info(f"Last place: {loser_name}")
 
     # Execute consequences with fakes
     if loser:
         plan = ConsequencePlan(
             loser_id=loser,
+            loser_name=names.get(loser, loser),
             guild_id=settings.discord_guild_id,
             week_start=week_start,
             debt_amount=settings.upi_default_amount,
@@ -143,7 +147,11 @@ if __name__ == "__main__":
     use_llm = "--offline" not in sys.argv
 
     result = run_simulation(fixture, use_real_llm=use_llm)
-    print(f"\nLoser: {result['loser']}")
+    loser_id = result['loser']
+    # Try to get display name from fixture
+    fix = load_fixture(fixture)
+    nm = fix.get('member_names', {})
+    print(f"\nLoser: {nm.get(loser_id, loser_id)}")
     print(f"Verdicts: {len(result['verdicts'])}")
     print(f"Actions: {len(result['action_results'])} "
           f"({sum(1 for r in result['action_results'] if r.success)} succeeded)")
