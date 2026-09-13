@@ -1,0 +1,15 @@
+{
+  "id": "case_018",
+  "image": "images/gym_weights.jpg",
+  "member_id": "dave",
+  "claimed_activity": "gym",
+  "claimed_duration_min": 60,
+  "claimed_distance_km": null,
+  "note": "Upper body day",
+  "submitted_at": "2026-09-12T17:00:00+05:30",
+  "history_refs": [],
+  "expected_verdict": "ACCEPT",
+  "expected_reason_code": null,
+  "label_notes": "Gym photo showing weight rack and wall clock. Duration clearly above 30 min threshold.",
+  "difficulty": "easy"
+}

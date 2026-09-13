@@ -1,0 +1,15 @@
+{
+  "id": "case_029",
+  "image": "images/old_gym.jpg",
+  "member_id": "charlie",
+  "claimed_activity": "gym",
+  "claimed_duration_min": 50,
+  "claimed_distance_km": null,
+  "note": "Forgot to submit yesterday",
+  "submitted_at": "2026-09-11T08:00:00+05:30",
+  "history_refs": [],
+  "expected_verdict": "REJECT",
+  "expected_reason_code": "R2_STALE",
+  "label_notes": "Gym app summary screen dated Sep 8. Submitted Sep 11. Three days stale.",
+  "difficulty": "easy"
+}

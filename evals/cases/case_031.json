@@ -1,0 +1,15 @@
+{
+  "id": "case_031",
+  "image": "images/web_gym_stock.jpg",
+  "member_id": "eve",
+  "claimed_activity": "gym",
+  "claimed_duration_min": 40,
+  "claimed_distance_km": null,
+  "note": "Hard session today",
+  "submitted_at": "2026-09-09T18:00:00+05:30",
+  "history_refs": [],
+  "expected_verdict": "REJECT",
+  "expected_reason_code": "R3_NOT_SUBMITTER",
+  "label_notes": "Stock photo of a gym. Unnaturally clean lighting, no personal context, visible watermark in corner.",
+  "difficulty": "easy"
+}

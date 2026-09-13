@@ -1,0 +1,15 @@
+{
+  "id": "case_010",
+  "image": "images/ambiguous_watch.jpg",
+  "member_id": "eve",
+  "claimed_activity": "run",
+  "claimed_duration_min": 25,
+  "claimed_distance_km": 4.0,
+  "note": "Watch was glitching",
+  "submitted_at": "2026-09-12T18:30:00+05:30",
+  "history_refs": [],
+  "expected_verdict": "ESCALATE",
+  "expected_reason_code": null,
+  "label_notes": "Smartwatch face partially obscured by glare. Some numbers visible but not clearly. Genuinely ambiguous.",
+  "difficulty": "hard"
+}

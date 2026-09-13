@@ -1,0 +1,15 @@
+{
+  "id": "case_030",
+  "image": "images/friend_run_screenshot.jpg",
+  "member_id": "dave",
+  "claimed_activity": "run",
+  "claimed_duration_min": 30,
+  "claimed_distance_km": 5.0,
+  "note": null,
+  "submitted_at": "2026-09-10T08:00:00+05:30",
+  "history_refs": [],
+  "expected_verdict": "REJECT",
+  "expected_reason_code": "R3_NOT_SUBMITTER",
+  "label_notes": "Screenshot shows a different username 'Rahul' on the running app. Dave is submitting someone else's run.",
+  "difficulty": "hard"
+}

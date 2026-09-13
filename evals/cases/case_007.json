@@ -1,0 +1,15 @@
+{
+  "id": "case_007",
+  "image": "images/treadmill_mismatch.jpg",
+  "member_id": "bob",
+  "claimed_activity": "run",
+  "claimed_duration_min": 45,
+  "claimed_distance_km": 8.0,
+  "note": "Evening run",
+  "submitted_at": "2026-09-11T19:00:00+05:30",
+  "history_refs": [],
+  "expected_verdict": "REJECT",
+  "expected_reason_code": "R5_MISMATCH",
+  "label_notes": "Treadmill display clearly shows 1.2 km / 11 min. Claim says 8 km / 45 min. Image wins.",
+  "difficulty": "easy"
+}

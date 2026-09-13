@@ -1,0 +1,15 @@
+{
+  "id": "case_003",
+  "image": "images/cycle_app.jpg",
+  "member_id": "charlie",
+  "claimed_activity": "cycle",
+  "claimed_duration_min": 40,
+  "claimed_distance_km": 12.0,
+  "note": null,
+  "submitted_at": "2026-09-10T07:15:00+05:30",
+  "history_refs": [],
+  "expected_verdict": "ACCEPT",
+  "expected_reason_code": null,
+  "label_notes": "Cycling app screenshot showing 12 km, 40 min. Clear and dated.",
+  "difficulty": "easy"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "case_023",
+  "image": "images/partial_run_screen.jpg",
+  "member_id": "dave",
+  "claimed_activity": "run",
+  "claimed_duration_min": 30,
+  "claimed_distance_km": 4.5,
+  "note": "Screenshot cropped accidentally",
+  "submitted_at": "2026-09-09T07:30:00+05:30",
+  "history_refs": [],
+  "expected_verdict": "ACCEPT",
+  "expected_reason_code": null,
+  "label_notes": "Partially cropped running app. Distance 4.5 km visible, duration partially cut but '30' legible. Date visible. Real but scruffy.",
+  "difficulty": "hard"
+}

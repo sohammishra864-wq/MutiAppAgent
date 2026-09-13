@@ -1,0 +1,15 @@
+{
+  "id": "case_015",
+  "image": "images/sport_badminton.jpg",
+  "member_id": "bob",
+  "claimed_activity": "sport",
+  "claimed_duration_min": 45,
+  "claimed_distance_km": null,
+  "note": "Badminton doubles",
+  "submitted_at": "2026-09-10T19:00:00+05:30",
+  "history_refs": [],
+  "expected_verdict": "ACCEPT",
+  "expected_reason_code": null,
+  "label_notes": "Photo of badminton court with timestamp overlay showing 45 min session. Above 30 min threshold.",
+  "difficulty": "easy"
+}

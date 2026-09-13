@@ -1,0 +1,15 @@
+{
+  "id": "case_004",
+  "image": "images/short_jog.jpg",
+  "member_id": "dave",
+  "claimed_activity": "run",
+  "claimed_duration_min": 12,
+  "claimed_distance_km": 1.5,
+  "note": "Quick jog around the block",
+  "submitted_at": "2026-09-10T19:00:00+05:30",
+  "history_refs": [],
+  "expected_verdict": "REJECT",
+  "expected_reason_code": "R4_BELOW_THRESHOLD",
+  "label_notes": "Tracker shows 1.5 km / 12 min. Run requires 20 min or 3 km. Below both.",
+  "difficulty": "easy"
+}

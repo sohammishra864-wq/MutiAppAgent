@@ -1,0 +1,15 @@
+{
+  "id": "case_026",
+  "image": "images/gym_mirror.jpg",
+  "member_id": "alice",
+  "claimed_activity": "gym",
+  "claimed_duration_min": 45,
+  "claimed_distance_km": null,
+  "note": null,
+  "submitted_at": "2026-09-11T18:00:00+05:30",
+  "history_refs": ["case_002"],
+  "expected_verdict": "REJECT",
+  "expected_reason_code": "R1_DUPLICATE",
+  "label_notes": "Same gym_mirror.jpg as case_002. Different member and date but identical image bytes.",
+  "difficulty": "easy"
+}

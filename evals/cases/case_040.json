@@ -1,0 +1,15 @@
+{
+  "id": "case_040",
+  "image": "images/impossible_run.jpg",
+  "member_id": "eve",
+  "claimed_activity": "run",
+  "claimed_duration_min": 30,
+  "claimed_distance_km": 25.0,
+  "note": "Speed session",
+  "submitted_at": "2026-09-12T06:30:00+05:30",
+  "history_refs": [],
+  "expected_verdict": "REJECT",
+  "expected_reason_code": "R7_IMPLAUSIBLE",
+  "label_notes": "Claims 25 km in 30 min = 50 km/h. Max plausible run speed is 25 km/h. Physically impossible.",
+  "difficulty": "easy"
+}

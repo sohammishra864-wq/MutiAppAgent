@@ -1,0 +1,15 @@
+{
+  "id": "case_039",
+  "image": "images/random_food.jpg",
+  "member_id": "charlie",
+  "claimed_activity": "run",
+  "claimed_duration_min": 30,
+  "claimed_distance_km": 5.0,
+  "note": "Post run meal",
+  "submitted_at": "2026-09-11T12:00:00+05:30",
+  "history_refs": [],
+  "expected_verdict": "ESCALATE",
+  "expected_reason_code": "R6_UNVERIFIABLE",
+  "label_notes": "Photo of food plate. No exercise evidence whatsoever. Note says post run meal but image has zero fitness content.",
+  "difficulty": "easy"
+}

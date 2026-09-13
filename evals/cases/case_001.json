@@ -1,0 +1,15 @@
+{
+  "id": "case_001",
+  "image": "images/run_tracker.jpg",
+  "member_id": "alice",
+  "claimed_activity": "run",
+  "claimed_duration_min": 35,
+  "claimed_distance_km": 5.2,
+  "note": "Morning run in the park",
+  "submitted_at": "2026-09-10T06:30:00+05:30",
+  "history_refs": [],
+  "expected_verdict": "ACCEPT",
+  "expected_reason_code": null,
+  "label_notes": "Clear tracker screenshot showing 5.2 km, 35 min, dated Sep 10.",
+  "difficulty": "easy"
+}

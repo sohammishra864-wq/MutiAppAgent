@@ -1,0 +1,15 @@
+{
+  "id": "case_028",
+  "image": "images/old_run.jpg",
+  "member_id": "bob",
+  "claimed_activity": "run",
+  "claimed_duration_min": 40,
+  "claimed_distance_km": 6.0,
+  "note": "Morning run",
+  "submitted_at": "2026-09-12T07:00:00+05:30",
+  "history_refs": [],
+  "expected_verdict": "REJECT",
+  "expected_reason_code": "R2_STALE",
+  "label_notes": "Running app screenshot clearly dated Sep 5. Submitted Sep 12. Seven days stale.",
+  "difficulty": "easy"
+}

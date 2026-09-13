@@ -1,0 +1,15 @@
+{
+  "id": "case_013",
+  "image": "images/swim_tracker.jpg",
+  "member_id": "dave",
+  "claimed_activity": "swim",
+  "claimed_duration_min": 25,
+  "claimed_distance_km": null,
+  "note": "Laps at the community pool",
+  "submitted_at": "2026-09-08T07:00:00+05:30",
+  "history_refs": [],
+  "expected_verdict": "ACCEPT",
+  "expected_reason_code": null,
+  "label_notes": "Swim tracker screenshot showing 25 min, dated Sep 8. Clear and above 20 min threshold.",
+  "difficulty": "easy"
+}

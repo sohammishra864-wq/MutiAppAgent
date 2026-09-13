@@ -1,0 +1,15 @@
+{
+  "id": "case_027",
+  "image": "images/cycle_app.jpg",
+  "member_id": "dave",
+  "claimed_activity": "cycle",
+  "claimed_duration_min": 40,
+  "claimed_distance_km": 12.0,
+  "note": "Great ride today",
+  "submitted_at": "2026-09-12T09:00:00+05:30",
+  "history_refs": ["case_003"],
+  "expected_verdict": "REJECT",
+  "expected_reason_code": "R1_DUPLICATE",
+  "label_notes": "Same cycle_app.jpg as case_003. Resubmitted by different member.",
+  "difficulty": "easy"
+}

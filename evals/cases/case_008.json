@@ -1,0 +1,15 @@
+{
+  "id": "case_008",
+  "image": "images/run_tracker.jpg",
+  "member_id": "charlie",
+  "claimed_activity": "run",
+  "claimed_duration_min": 35,
+  "claimed_distance_km": 5.2,
+  "note": null,
+  "submitted_at": "2026-09-11T07:00:00+05:30",
+  "history_refs": ["case_001"],
+  "expected_verdict": "REJECT",
+  "expected_reason_code": "R1_DUPLICATE",
+  "label_notes": "Same image as case_001 (run_tracker.jpg). Duplicate submission.",
+  "difficulty": "easy"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "case_021",
+  "image": "images/sport_football.jpg",
+  "member_id": "bob",
+  "claimed_activity": "sport",
+  "claimed_duration_min": 90,
+  "claimed_distance_km": null,
+  "note": "Sunday football match",
+  "submitted_at": "2026-09-13T16:00:00+05:30",
+  "history_refs": [],
+  "expected_verdict": "ACCEPT",
+  "expected_reason_code": null,
+  "label_notes": "Photo of football pitch with team. Duration claim well above 30 min threshold.",
+  "difficulty": "easy"
+}

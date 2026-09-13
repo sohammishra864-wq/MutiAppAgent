@@ -1,0 +1,15 @@
+{
+  "id": "case_017",
+  "image": "images/run_evening.jpg",
+  "member_id": "charlie",
+  "claimed_activity": "run",
+  "claimed_duration_min": 28,
+  "claimed_distance_km": 4.8,
+  "note": null,
+  "submitted_at": "2026-09-11T19:45:00+05:30",
+  "history_refs": [],
+  "expected_verdict": "ACCEPT",
+  "expected_reason_code": null,
+  "label_notes": "Running app screenshot showing 4.8 km / 28 min. Meets 3 km threshold for run.",
+  "difficulty": "easy"
+}

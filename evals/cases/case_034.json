@@ -1,0 +1,15 @@
+{
+  "id": "case_034",
+  "image": "images/short_walk_tracker.jpg",
+  "member_id": "eve",
+  "claimed_activity": "walk",
+  "claimed_duration_min": 20,
+  "claimed_distance_km": 1.0,
+  "note": "Quick stroll",
+  "submitted_at": "2026-09-10T12:00:00+05:30",
+  "history_refs": [],
+  "expected_verdict": "REJECT",
+  "expected_reason_code": "R4_BELOW_THRESHOLD",
+  "label_notes": "Walk of 20 min. Threshold is 30 min. Tracker screenshot clearly shows 20 min. Legitimate but too short.",
+  "difficulty": "easy"
+}

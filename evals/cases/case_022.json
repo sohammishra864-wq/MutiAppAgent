@@ -1,0 +1,15 @@
+{
+  "id": "case_022",
+  "image": "images/dim_gym.jpg",
+  "member_id": "charlie",
+  "claimed_activity": "gym",
+  "claimed_duration_min": 35,
+  "claimed_distance_km": null,
+  "note": "Late night session, gym was closing",
+  "submitted_at": "2026-09-10T22:00:00+05:30",
+  "history_refs": [],
+  "expected_verdict": "ACCEPT",
+  "expected_reason_code": null,
+  "label_notes": "Dark gym photo, equipment barely visible but identifiable. Timer on phone in corner reads ~35 min. Marginal quality but real.",
+  "difficulty": "hard"
+}

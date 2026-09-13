@@ -1,0 +1,15 @@
+{
+  "id": "case_019",
+  "image": "images/cycle_long.jpg",
+  "member_id": "eve",
+  "claimed_activity": "cycle",
+  "claimed_duration_min": 55,
+  "claimed_distance_km": 18.0,
+  "note": "Weekend ride",
+  "submitted_at": "2026-09-13T08:30:00+05:30",
+  "history_refs": [],
+  "expected_verdict": "ACCEPT",
+  "expected_reason_code": null,
+  "label_notes": "Cycling app showing 18 km / 55 min. Well above both thresholds.",
+  "difficulty": "easy"
+}

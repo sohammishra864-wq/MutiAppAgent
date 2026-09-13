@@ -1,0 +1,15 @@
+{
+  "id": "case_020",
+  "image": "images/run_watch.jpg",
+  "member_id": "alice",
+  "claimed_activity": "run",
+  "claimed_duration_min": 22,
+  "claimed_distance_km": 3.1,
+  "note": "Quick run before work",
+  "submitted_at": "2026-09-08T06:45:00+05:30",
+  "history_refs": [],
+  "expected_verdict": "ACCEPT",
+  "expected_reason_code": null,
+  "label_notes": "Smartwatch face showing 3.1 km / 22 min. Meets both run thresholds (20 min, 3 km). Early morning.",
+  "difficulty": "easy"
+}

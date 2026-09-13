@@ -1,0 +1,15 @@
+{
+  "id": "case_038",
+  "image": "images/blurry_dark_gym.jpg",
+  "member_id": "dave",
+  "claimed_activity": "gym",
+  "claimed_duration_min": 40,
+  "claimed_distance_km": null,
+  "note": "Evening session",
+  "submitted_at": "2026-09-12T20:00:00+05:30",
+  "history_refs": [],
+  "expected_verdict": "ESCALATE",
+  "expected_reason_code": "R6_UNVERIFIABLE",
+  "label_notes": "Very dark, blurry photo. Might be a gym but nothing readable. No duration or metrics visible. Grounding score will be near zero.",
+  "difficulty": "easy"
+}

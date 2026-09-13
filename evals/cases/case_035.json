@@ -1,0 +1,15 @@
+{
+  "id": "case_035",
+  "image": "images/short_cycle_garmin.jpg",
+  "member_id": "charlie",
+  "claimed_activity": "cycle",
+  "claimed_duration_min": 15,
+  "claimed_distance_km": 3.0,
+  "note": null,
+  "submitted_at": "2026-09-09T17:30:00+05:30",
+  "history_refs": [],
+  "expected_verdict": "REJECT",
+  "expected_reason_code": "R4_BELOW_THRESHOLD",
+  "label_notes": "Garmin screenshot shows 15 min cycle, 3 km. Cycle threshold is 20 min. Below minimum.",
+  "difficulty": "easy"
+}

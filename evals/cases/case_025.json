@@ -1,0 +1,15 @@
+{
+  "id": "case_025",
+  "image": "images/low_res_swim.jpg",
+  "member_id": "alice",
+  "claimed_activity": "swim",
+  "claimed_duration_min": 22,
+  "claimed_distance_km": null,
+  "note": "Phone camera was foggy from pool steam",
+  "submitted_at": "2026-09-13T08:00:00+05:30",
+  "history_refs": [],
+  "expected_verdict": "ACCEPT",
+  "expected_reason_code": null,
+  "label_notes": "Low quality pool photo with foggy lens. Lap timer on poolside clock shows ~22 min. Barely readable but real.",
+  "difficulty": "hard"
+}

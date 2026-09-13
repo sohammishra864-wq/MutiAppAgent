@@ -1,0 +1,15 @@
+{
+  "id": "case_002",
+  "image": "images/gym_mirror.jpg",
+  "member_id": "bob",
+  "claimed_activity": "gym",
+  "claimed_duration_min": 45,
+  "claimed_distance_km": null,
+  "note": "Leg day",
+  "submitted_at": "2026-09-10T18:00:00+05:30",
+  "history_refs": [],
+  "expected_verdict": "ACCEPT",
+  "expected_reason_code": null,
+  "label_notes": "Gym mirror selfie with visible equipment and gym clock showing ~45 min session.",
+  "difficulty": "easy"
+}

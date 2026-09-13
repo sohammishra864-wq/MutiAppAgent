@@ -1,0 +1,15 @@
+{
+  "id": "case_032",
+  "image": "images/rephotographed_screen.jpg",
+  "member_id": "bob",
+  "claimed_activity": "cycle",
+  "claimed_duration_min": 35,
+  "claimed_distance_km": 10.0,
+  "note": null,
+  "submitted_at": "2026-09-11T17:00:00+05:30",
+  "history_refs": [],
+  "expected_verdict": "REJECT",
+  "expected_reason_code": "R3_NOT_SUBMITTER",
+  "label_notes": "Photo of a phone screen showing another phone's cycling app. Visible bezel of the photographed device. Re-photographed screenshot.",
+  "difficulty": "hard"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "case_005",
+  "image": "images/stale_screenshot.jpg",
+  "member_id": "eve",
+  "claimed_activity": "swim",
+  "claimed_duration_min": 30,
+  "claimed_distance_km": null,
+  "note": "Pool session",
+  "submitted_at": "2026-09-10T17:00:00+05:30",
+  "history_refs": [],
+  "expected_verdict": "REJECT",
+  "expected_reason_code": "R2_STALE",
+  "label_notes": "Screenshot clearly dated Sep 7, submitted Sep 10. Three days stale.",
+  "difficulty": "easy"
+}

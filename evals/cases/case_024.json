@@ -1,0 +1,15 @@
+{
+  "id": "case_024",
+  "image": "images/glare_watch.jpg",
+  "member_id": "eve",
+  "claimed_activity": "cycle",
+  "claimed_duration_min": 35,
+  "claimed_distance_km": 10.0,
+  "note": "Watch had glare from sun",
+  "submitted_at": "2026-09-12T06:50:00+05:30",
+  "history_refs": [],
+  "expected_verdict": "ACCEPT",
+  "expected_reason_code": null,
+  "label_notes": "Smartwatch with sun glare. Distance '10.0' readable, duration partially obscured but '35' visible. Enough to verify. Early morning.",
+  "difficulty": "hard"
+}

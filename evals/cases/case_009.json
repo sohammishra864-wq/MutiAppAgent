@@ -1,0 +1,15 @@
+{
+  "id": "case_009",
+  "image": "images/impossible_run.jpg",
+  "member_id": "dave",
+  "claimed_activity": "run",
+  "claimed_duration_min": 20,
+  "claimed_distance_km": 42.0,
+  "note": "Marathon PB!",
+  "submitted_at": "2026-09-11T06:00:00+05:30",
+  "history_refs": [],
+  "expected_verdict": "REJECT",
+  "expected_reason_code": "R7_IMPLAUSIBLE",
+  "label_notes": "42 km in 20 min = 126 km/h. Not physically possible. R7.",
+  "difficulty": "easy"
+}

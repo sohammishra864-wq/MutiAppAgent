@@ -1,0 +1,15 @@
+{
+  "id": "case_036",
+  "image": "images/yoga_but_claim_run.jpg",
+  "member_id": "bob",
+  "claimed_activity": "run",
+  "claimed_duration_min": 35,
+  "claimed_distance_km": 5.0,
+  "note": "Felt good today",
+  "submitted_at": "2026-09-10T07:00:00+05:30",
+  "history_refs": [],
+  "expected_verdict": "REJECT",
+  "expected_reason_code": "R5_MISMATCH",
+  "label_notes": "Image shows yoga mat indoors with yoga app timer. Claims a 5km run. Activity clearly mismatches.",
+  "difficulty": "easy"
+}

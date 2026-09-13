@@ -1,0 +1,15 @@
+{
+  "id": "case_037",
+  "image": "images/swimming_claim_gym.jpg",
+  "member_id": "alice",
+  "claimed_activity": "gym",
+  "claimed_duration_min": 45,
+  "claimed_distance_km": null,
+  "note": "Great workout",
+  "submitted_at": "2026-09-11T19:00:00+05:30",
+  "history_refs": [],
+  "expected_verdict": "REJECT",
+  "expected_reason_code": "R5_MISMATCH",
+  "label_notes": "Image shows swimming pool lap counter app. Claims gym. Swimming is not gym.",
+  "difficulty": "easy"
+}

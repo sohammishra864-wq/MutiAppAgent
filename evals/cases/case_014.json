@@ -1,0 +1,15 @@
+{
+  "id": "case_014",
+  "image": "images/walk_tracker.jpg",
+  "member_id": "eve",
+  "claimed_activity": "walk",
+  "claimed_duration_min": 50,
+  "claimed_distance_km": 5.5,
+  "note": "Long evening walk",
+  "submitted_at": "2026-09-09T18:30:00+05:30",
+  "history_refs": [],
+  "expected_verdict": "ACCEPT",
+  "expected_reason_code": null,
+  "label_notes": "Walking app shows 50 min / 5.5 km dated Sep 9. Above both thresholds (45 min or 5 km).",
+  "difficulty": "easy"
+}

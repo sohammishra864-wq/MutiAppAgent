@@ -1,0 +1,15 @@
+{
+  "id": "case_033",
+  "image": "images/friend_watch.jpg",
+  "member_id": "alice",
+  "claimed_activity": "run",
+  "claimed_duration_min": 25,
+  "claimed_distance_km": 4.0,
+  "note": "Quick evening run",
+  "submitted_at": "2026-09-12T19:30:00+05:30",
+  "history_refs": [],
+  "expected_verdict": "REJECT",
+  "expected_reason_code": "R3_NOT_SUBMITTER",
+  "label_notes": "Smartwatch on a wrist that is clearly a different skin tone / size than alice's prior submissions. Likely a friend's watch.",
+  "difficulty": "hard"
+}

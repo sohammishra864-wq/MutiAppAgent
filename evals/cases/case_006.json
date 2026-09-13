@@ -1,0 +1,15 @@
+{
+  "id": "case_006",
+  "image": "images/blurry_selfie.jpg",
+  "member_id": "alice",
+  "claimed_activity": "home_workout",
+  "claimed_duration_min": 30,
+  "claimed_distance_km": null,
+  "note": "Yoga at home",
+  "submitted_at": "2026-09-11T08:00:00+05:30",
+  "history_refs": [],
+  "expected_verdict": "REJECT",
+  "expected_reason_code": "R6_UNVERIFIABLE",
+  "label_notes": "Blurry selfie in a living room. No timer, no app, no equipment visible. Unverifiable.",
+  "difficulty": "easy"
+}

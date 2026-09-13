@@ -1,0 +1,155 @@
+{
+  "week_start": "2026-09-07",
+  "week_end": "2026-09-13",
+  "members": ["alice", "bob", "charlie", "dave", "eve"],
+  "submissions": [
+    {
+      "member_id": "alice",
+      "submitted_at": "2026-09-07T06:30:00+05:30",
+      "claimed_activity": "run",
+      "claimed_duration_min": 35,
+      "claimed_distance_km": 5.2,
+      "image": "images/placeholder.jpg",
+      "expected_verdict": "ACCEPT",
+      "expected_points": 3,
+      "note": "Early morning run!"
+    },
+    {
+      "member_id": "bob",
+      "submitted_at": "2026-09-07T18:00:00+05:30",
+      "claimed_activity": "gym",
+      "claimed_duration_min": 45,
+      "image": "images/placeholder.jpg",
+      "expected_verdict": "ACCEPT",
+      "expected_points": 2
+    },
+    {
+      "member_id": "charlie",
+      "submitted_at": "2026-09-07T19:00:00+05:30",
+      "claimed_activity": "cycle",
+      "claimed_duration_min": 40,
+      "claimed_distance_km": 12.0,
+      "image": "images/placeholder.jpg",
+      "expected_verdict": "ACCEPT",
+      "expected_points": 2
+    },
+    {
+      "member_id": "alice",
+      "submitted_at": "2026-09-08T07:15:00+05:30",
+      "claimed_activity": "swim",
+      "claimed_duration_min": 30,
+      "image": "images/placeholder.jpg",
+      "expected_verdict": "ACCEPT",
+      "expected_points": 2
+    },
+    {
+      "member_id": "bob",
+      "submitted_at": "2026-09-08T17:30:00+05:30",
+      "claimed_activity": "run",
+      "claimed_duration_min": 25,
+      "claimed_distance_km": 4.0,
+      "image": "images/placeholder.jpg",
+      "expected_verdict": "ACCEPT",
+      "expected_points": 2
+    },
+    {
+      "member_id": "eve",
+      "submitted_at": "2026-09-08T20:00:00+05:30",
+      "claimed_activity": "walk",
+      "claimed_duration_min": 50,
+      "claimed_distance_km": 4.0,
+      "image": "images/placeholder.jpg",
+      "expected_verdict": "ACCEPT",
+      "expected_points": 1
+    },
+    {
+      "member_id": "alice",
+      "submitted_at": "2026-09-09T06:45:00+05:30",
+      "claimed_activity": "gym",
+      "claimed_duration_min": 50,
+      "image": "images/placeholder.jpg",
+      "expected_verdict": "ACCEPT",
+      "expected_points": 3
+    },
+    {
+      "member_id": "charlie",
+      "submitted_at": "2026-09-09T18:30:00+05:30",
+      "claimed_activity": "run",
+      "claimed_duration_min": 22,
+      "claimed_distance_km": 3.5,
+      "image": "images/placeholder.jpg",
+      "expected_verdict": "ACCEPT",
+      "expected_points": 2
+    },
+    {
+      "member_id": "dave",
+      "submitted_at": "2026-09-09T19:00:00+05:30",
+      "claimed_activity": "run",
+      "claimed_duration_min": 10,
+      "claimed_distance_km": 1.5,
+      "image": "images/placeholder.jpg",
+      "expected_verdict": "REJECT",
+      "expected_points": 0,
+      "note": "Quick jog"
+    },
+    {
+      "member_id": "bob",
+      "submitted_at": "2026-09-10T18:00:00+05:30",
+      "claimed_activity": "sport",
+      "claimed_duration_min": 60,
+      "image": "images/placeholder.jpg",
+      "expected_verdict": "ACCEPT",
+      "expected_points": 2,
+      "note": "Badminton with friends"
+    },
+    {
+      "member_id": "alice",
+      "submitted_at": "2026-09-10T19:00:00+05:30",
+      "claimed_activity": "home_workout",
+      "claimed_duration_min": 30,
+      "image": "images/placeholder.jpg",
+      "expected_verdict": "ACCEPT",
+      "expected_points": 1
+    },
+    {
+      "member_id": "eve",
+      "submitted_at": "2026-09-11T17:00:00+05:30",
+      "claimed_activity": "walk",
+      "claimed_duration_min": 40,
+      "claimed_distance_km": 3.0,
+      "image": "images/placeholder.jpg",
+      "expected_verdict": "REJECT",
+      "expected_points": 0,
+      "note": "Short evening walk"
+    },
+    {
+      "member_id": "alice",
+      "submitted_at": "2026-09-12T06:00:00+05:30",
+      "claimed_activity": "run",
+      "claimed_duration_min": 28,
+      "claimed_distance_km": 4.5,
+      "image": "images/placeholder.jpg",
+      "expected_verdict": "ACCEPT",
+      "expected_points": 3
+    },
+    {
+      "member_id": "charlie",
+      "submitted_at": "2026-09-12T18:00:00+05:30",
+      "claimed_activity": "gym",
+      "claimed_duration_min": 35,
+      "image": "images/placeholder.jpg",
+      "expected_verdict": "ACCEPT",
+      "expected_points": 2
+    },
+    {
+      "member_id": "bob",
+      "submitted_at": "2026-09-13T08:00:00+05:30",
+      "claimed_activity": "cycle",
+      "claimed_duration_min": 45,
+      "claimed_distance_km": 15.0,
+      "image": "images/placeholder.jpg",
+      "expected_verdict": "ACCEPT",
+      "expected_points": 2
+    }
+  ]
+}

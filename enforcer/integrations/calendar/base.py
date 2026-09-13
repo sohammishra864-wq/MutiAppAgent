@@ -1,0 +1,9 @@
+from __future__ import annotations
+from typing import Protocol
+from enforcer.core.schemas import TimeSlot
+
+
+class CalendarService(Protocol):
+    def freebusy(self, member_ids: list[str], min_date: str, max_date: str) -> list[TimeSlot]: ...
+    def create_event(self, slot: TimeSlot, summary: str, attendees: list[str], idempotency_key: str) -> str: ...
+    def delete_event(self, event_id: str) -> None: ...

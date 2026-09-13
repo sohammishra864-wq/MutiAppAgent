@@ -1,0 +1,15 @@
+{
+  "id": "case_016",
+  "image": "images/home_yoga.jpg",
+  "member_id": "alice",
+  "claimed_activity": "home_workout",
+  "claimed_duration_min": 30,
+  "claimed_distance_km": null,
+  "note": "Morning yoga routine",
+  "submitted_at": "2026-09-11T06:15:00+05:30",
+  "history_refs": [],
+  "expected_verdict": "ACCEPT",
+  "expected_reason_code": null,
+  "label_notes": "Screenshot of yoga app timer showing 30 min completed, dated Sep 11. Above 25 min threshold. Early morning bonus.",
+  "difficulty": "easy"
+}

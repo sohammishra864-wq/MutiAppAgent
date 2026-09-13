@@ -1,0 +1,15 @@
+{
+  "id": "case_011",
+  "image": "images/walk_40min.jpg",
+  "member_id": "alice",
+  "claimed_activity": "walk",
+  "claimed_duration_min": 40,
+  "claimed_distance_km": 3.0,
+  "note": "Evening walk",
+  "submitted_at": "2026-09-12T19:00:00+05:30",
+  "history_refs": [],
+  "expected_verdict": "REJECT",
+  "expected_reason_code": "R4_BELOW_THRESHOLD",
+  "label_notes": "Walk requires 45 min or 5 km. This is 40 min / 3 km — below both. Policy-counterintuitive: sounds like a real workout but doesn't meet threshold.",
+  "difficulty": "hard"
+}
