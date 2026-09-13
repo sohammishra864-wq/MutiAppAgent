@@ -1,5 +1,9 @@
 # The Enforcer
 
+Hey there! I'm Soham. I built this fun-to-use multi-app agent that connects Google Calendar, Google Sheets, Discord, and Spotify. The motive was to build a great agent and have fun while doing it — and I think this turned out to be a good one. I've attached detailed info and a video demo link below. Thank you!
+
+---
+
 **A multi-app AI agent that judges fitness accountability and executes real consequences.**
 
 Members of a Discord server log workouts with photo proof. The Enforcer judges each submission against a written policy using vision AI, maintains a weekly leaderboard, and when the week ends — **takes action**: the last-place member owes the group a party. The agent finds a time everyone is free, creates a Google Calendar invite, records the debt in Google Sheets, and builds the loser a shame playlist on Spotify.
@@ -168,9 +172,15 @@ docs/
 
 ---
 
+## Demo
+
+[Watch the 2-minute demo](https://drive.google.com/file/d/1-k57WavtZI0ihv8aNGBavYrv7938bIiH/view?usp=sharing)
+
+---
+
 ## Team
 
-Built for the **Multi-App AI Agent Hackathon** (September 2026).
+Built solo by **Soham** for the **Multi-App AI Agent Hackathon** (September 2026).
 
 ---
 
