@@ -1,6 +1,6 @@
 # The Enforcer
 
-Hey there! I'm Soham. I built this fun-to-use multi-app agent that connects Google Calendar, Google Sheets, Discord, and Spotify. The motive was to build a great agent and have fun while doing it — and I think this turned out to be a good one. I've attached detailed info and a video demo link below. Thank you!
+Hey there! I'm Soham. I built this fun-to-use multi-app agent that connects Google Calendar, Google Sheets, Discord, and Spotify. The motive was to build a great agent and have fun while doing it — I thought this would be a good thing to make. I've attached detailed info and a video demo link below. Thank you!
 
 [Watch the 2-minute demo](https://drive.google.com/file/d/1-k57WavtZI0ihv8aNGBavYrv7938bIiH/view?usp=sharing)
 
